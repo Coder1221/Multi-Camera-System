@@ -197,8 +197,8 @@ if args.recorded:
 
 
 def homo(image1, points , p_points):
-    pdd =  os.path.join(os.getcwd(), 'video' ,'two' , points)
-    pdd1 = os.path.join(os.getcwd(), 'video' , 'two' , p_points)
+    pdd =  os.path.join(os.getcwd(), 'video' ,'Corresponding_points' , points)
+    pdd1 = os.path.join(os.getcwd(), 'video' , 'Corresponding_points' , p_points)
     df = pd.read_csv(pdd,header=None)
     df1 = pd.read_csv(pdd1,header=None)
     img_points  = df.to_numpy()
@@ -226,8 +226,8 @@ def put_circle(frame , points  ,homography ,circle = True ):
     return frame ,heat
 
 def Homo_point(image1, points , p_points):
-    pdd =  os.path.join(os.getcwd(), 'video' ,'two' , points)
-    pdd1 = os.path.join(os.getcwd(), 'video' , 'two' , p_points)
+    pdd =  os.path.join(os.getcwd(), 'video' ,'Corresponding_points' , points)
+    pdd1 = os.path.join(os.getcwd(), 'video' , 'Corresponding_points' , p_points)
     df = pd.read_csv(pdd,header=None)
     df1 = pd.read_csv(pdd1,header=None)
     img_points  = df.to_numpy()

@@ -1,3 +1,4 @@
+# code taken from https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
 from scipy.spatial import distance as dist
 from collections import OrderedDict
 import numpy as np

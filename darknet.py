@@ -1,7 +1,7 @@
+#  code taken from https://github.com/pjreddie/darknet
 import torch
 import torch.nn as nn
 import numpy as np
-
 
 class YoloLayer(nn.Module):
     def __init__(self, anchor_mask=[], num_classes=0, anchors=[], num_anchors=1):
