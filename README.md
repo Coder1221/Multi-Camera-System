@@ -1,8 +1,8 @@
 # Multi-Camera-surveillance-System
 * Projeted view of all three cameras on one plane
 * Object detection [car,person] in video by Yolo darknet framework
-* Porjection of bounding box on orthograohic view
-* Visulization of live heatmap
+* Projection of bounding box on orthographic view
+* Visualization of live heatmap
 * Live Animated heat map
 * Trip wire (Counting of car) by Centroid tracker and dlib
 Download yolo weights and put in Weights folder
