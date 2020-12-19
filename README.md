@@ -1,5 +1,5 @@
 # Multi-Camera-surveillance-System
-* Projeted view of all three cameras on one plane
+* Projected view of all three cameras on one plane
 * Object detection [car,person] in video by Yolo darknet framework
 * Projection of bounding box on orthographic view
 * Visualization of live heatmap
