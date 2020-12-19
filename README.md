@@ -1,3 +1,6 @@
+# Satellite view
+![alt text](https://github.com/Coder1221/Multi-Camera-System/blob/master/Satellite%20view.jpeg)
+
 # Multi-Camera-surveillance-System
 * Projected view of all three cameras on one plane
 * Object detection [car,person] in video by Yolo darknet framework
