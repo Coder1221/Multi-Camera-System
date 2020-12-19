@@ -1,5 +1,7 @@
 # Satellite view
 ![alt text](https://github.com/Coder1221/Multi-Camera-System/blob/master/Satellite%20view.jpeg)
+# All views
+![alt text](https://github.com/Coder1221/Multi-Camera-System/blob/master/Screenshot%20from%202020-12-19%2007-13-43.png)
 
 # Multi-Camera-surveillance-System
 * Projected view of all three cameras on one plane
