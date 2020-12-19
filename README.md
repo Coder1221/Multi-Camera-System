@@ -10,7 +10,9 @@
 * Visualization of live heatmap
 * Live Animated heat map
 * Trip wire (Counting of car) by Centroid tracker and dlib
-Download yolo weights and put in Weights folder
+
+# Download yolo weights and put in Weights folder
+!wget https://pjreddie.com/media/files/yolov3.weights
 # For all projected videos
 python3 main.py --projected
 # For heat map and animated heat map
